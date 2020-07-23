@@ -86,7 +86,7 @@ def game_hash
               :slam_dunks=>10
               },
               {
-              :player_name=>"Desagna Diop",
+              :player_name=>"DeSagna Diop",
               :number=>14,
               :shoe=>24,
               :points=>12,
